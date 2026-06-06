@@ -1,0 +1,53 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration
+local.properties
+
+# Android build outputs
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Keystore / signing files
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+generated/
+app/release/
+app/debug/
+
+# Kotlin / Java temporary files
+*.tmp
+*.temp
+
+# Native/OpenCV build cache
+*.so.dbg
+obj/
+libs/*/lib*.so.dbg
