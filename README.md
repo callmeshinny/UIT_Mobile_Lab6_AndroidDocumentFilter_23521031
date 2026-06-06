@@ -68,10 +68,3 @@ The app interface includes three main sections:
 Watch the video demo here:
 
 https://drive.google.com/drive/folders/1b0nbQx8vMyMO6vWEbZBn07rvioX_SioV
-
-## Notes
-
-- This project was developed for Mobile Development Lab 6.
-- The app uses OpenCV to process image brightness and reduce shadows.
-- The package name is `com.callmeshinny.androiddocumentfilter`.
-- The project does not use any copied student name or ID from the reference repository.
